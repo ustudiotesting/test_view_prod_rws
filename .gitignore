@@ -1,0 +1,5 @@
+.idea/
+*.html
+__pycache__/
+*.xml
+*.log
